@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=GyeoRe&animation=fadeIn&type=waving&color=f1ad9a&height=300&section=header)
 #### Hi there! Nice to see you 👋 
-#### My name is our RiGyeoRe Woo, I live in South Korea :kr:
-#### I'm a beginner developer just started coding! 
+#### My name is our RiGyeoRe Woo, I live in South Korea :kr: I'm a beginner developer just started coding! 
 
 <br>
 
