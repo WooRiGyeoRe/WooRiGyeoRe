@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> 
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-#139BB4?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-139BB4?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/flask-E34F26?style=for-the-badge&logo=flask&logoColor=black">
